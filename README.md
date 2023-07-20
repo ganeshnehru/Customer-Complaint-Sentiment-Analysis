@@ -1,8 +1,3 @@
----
-title: Comsumer Complaints Classification
-date: "November 30, 2022"
----
-
 # Introduction
 
 This project aims to construct classification models for consumer complaints using text mining and natural language processing techniques. This analysis will provide valuable insights into consumer behavior, supporting businesses in implementing effective strategies to enhance customer satisfaction and retention.
